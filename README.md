@@ -1,6 +1,6 @@
 # node_nn_editor
 
-A new Flutter project.
+A node-based editor for creating, training, and validating neural network models in a visually cohesive way.
 
 ## Getting Started
 
