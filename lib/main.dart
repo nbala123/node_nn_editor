@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:node_nn_editor/pages/application.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const Application());
 }
 
 class MyApp extends StatelessWidget {
